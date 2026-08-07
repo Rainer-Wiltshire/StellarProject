@@ -983,7 +983,380 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     inherit: true,
     abilities: { 0: "Bad Dreams", H: "Sacred Wraith" },
   },
-  relicanthancient: {
+	shaymin: {
+		inherit: true,
+		abiliities: { 0: "Flower Veil" },
+  },
+	shayminsky: {
+		inherit: true,
+		abilities: { 0: "Wind Rider" },
+	},
+	serperior: {
+		inherit: true,
+		abilities: { 0: "Overgrow", 1: "Serene Grace", H: "Multiscale" },
+	},
+	emboar: {
+		inherit: true,
+		abilities: { 0: "Blaze", 1: "Reckless", H: "Stamina" },
+	},
+	emboarmega: {
+		inherit: true,
+		abilities: { 0: "Supreme Overlord" },
+	},
+	samurott: {
+		inherit: true,
+		abilities: { 0: "Torrent", 1: "Defiant", H: "Shell Armor" },
+	},
+	samurotthisui: {
+		inherit: true,
+		abilities: { 0: "Torrent", 1: "Sharpness", H: "Anger Shell" },
+	},
+	watchog: {
+		inherit: true,
+		abilities: { 0: "Illuminate", 1: "Analytic", H: "Technician" },
+	},
+	simisage: {
+		inherit: true,
+		abilities: { 0: "Gluttony", 1: "Overgrow", H: "Flash Fire" },
+	},
+	simisear: {
+		inherit: true,
+		abilities: { 0: "Gluttony", 1: "Blaze", H: "Storm Drain" },
+	},
+	simipour: {
+		inherit: true,
+		abilities: { 0: "Gluttony", 1: "Torrent", H: "Sap Sipper" },
+	},
+	munna: {
+		inherit: true,
+		abilities: { 0: "Forewarn", 1: "Comatose", H: "Psychic Surge" },
+	},
+	musharna: {
+		inherit: true,
+		abilities: { 0: "Forewarn", 1: "Comatose", H: "Psychic Surge" },
+	},
+	unfezant: {
+		inherit: true,
+		abilities: { 0: "Opportunist", 1: "Super Luck", H: "Moxie" },
+	},
+	zebstrika: {
+		inherit: true,
+		abilities: { 0: "Flare Boost", 1: "Reckless", H: "Sap Sipper" },
+	},
+	gigalith: {
+		inherit: true,
+		abilities: { 0: "Solid Rock", 1: "Sand Stream", H: "Drought" },
+	},
+	excadrill: {
+		inherit: true,
+		abilities: { 0: "Sand Rush", 1: "Mold Breaker", H: "Tough Claws" },
+	},
+	audinomega: {
+		inherit: true,
+		abilities: { 0: "Regenerator" },
+	},
+	throh: {
+		inherit: true,
+		abilities: { 0: "Guts", 1: "Stamina", H: "Mold Breaker" },
+	},
+	sawk: {
+		inherit: true,
+		abilities: { 0: "Sturdy", 1: "Sniper", H: "Mold Breaker" },
+	},
+	leavanny: {
+		inherit: true,
+		abilities: { 0: "Swarm", 1: "Chlorophyll", H: "Friend Guard" },
+	},
+	scolipede: {
+		inherit: true,
+		abilities: { 0: "Moutaineer", 1: "Stamina", H: "Speed Boost" },
+	},
+	lilligant: {
+		inherit: true,
+		abilities: { 0: "Chlorophyll", 1: "Dancer", H: "Flower Veil" },
+	},
+	lilliganthisui: {
+		inherit: true,
+		abilities: { 0: "Chlorophyll", 1: "Dancer", H: "Sheer Force" },
+	},
+	basculegion: {
+		inherit: true,
+		abilities: { 0: "Swift Swim", 1: "Adaptability", H: "Defiant" },
+	},
+	basculegionf: {
+		inherit: true,
+		abilities: { 0: "Swift Swim", 1: "Adaptability", H: "Competitive" },
+	},
+	krookodile: {
+		inherit: true,
+		abilities: { 0: "Intimidate", 1: "Moxie", H: "Dragon's Maw" },
+	},
+	darmanitan: {
+		inherit: true,
+		abilities: { 0: "Sheer Force", H: "Rock Head" },
+	},
+	darmanitanzen: {
+		inherit: true,
+		abilities: { 0: "Levitate", H: "Solid Rock" },
+	},
+	darmanitangalar: {
+		inherit: true,
+		abilities: { 0: "Gorilla Tactic" },
+	},
+	darmanitangalarzen: {
+		inherit: true,
+		abilities: { 0: "No Guard" },
+	},
+	maractus: {
+		inherit: true,
+		abilities: { 0: "Sand Stream", 1: "Drizzle", H: "Drought" },
+	},
+	sigilyph: {
+		inherit: true,
+		abilities: { 0: "Mind's Eye", 1: "Magic Guard", H: "Tinted Lens" },
+	},
+	cofagrigus: {
+		inherit: true,
+		abilities: { 0: "Mummy", 1: "Mind's Eye", H: "Good as Gold" },
+	},
+	yamaskgalar: {
+		inherit: true,
+		abilities: { 0: "Wandering Spirit", 1: "Sand Veil", H: "Solid Rock" },
+	},
+	runerigus: {
+		inherit: true,
+		abilities: { 0: "Wander Spirit", 1: "Sand Spit", H: "Solid Rock" },
+	},
+	archeops: {
+		inherit: true,
+		abilities: { 0: "Defeatist", H: "Moutaineer" },
+	},
+	garbodor: {
+		inherit: true,
+		abilities: { 0: "Stench", 1: "Pickup", H: "Aftermath" },
+	},
+	gothorita: {
+		inherit: true,
+		abilities: { 0: "Anticipation", 1: "Competitive", H: "Shadow Tag" },
+	},
+	gothitelle: {
+		inherit: true,
+		abilities: { 0: "Anticipation", 1: "Competitive", H: "Shadow Tag" },
+	},
+	duosion: {
+		inherit: true,
+		abilities: { 0: "Regenerator", 1: "Magic Guard", H: "Pure Power" },
+	},
+	reuniclus: {
+		inherit: true,
+		abilities: { 0: "Regenerator", 1: "Magic Guard", H: "Pure Power" },
+	},
+	deerling: {
+		inherit: true,
+		abilities: { 0: "Grassy Surge", 1: "Chlorophyll", H: "Serene Grace" },
+	},
+	sawsbuck: {
+		inherit: true,
+		abilities: { 0: "Grassy Surge", 1: "Chlorophyll", H: "Serene Grace" },
+	},
+	emolga: {
+		inherit: true,
+		abilities: { 0: "Static", 1: "Motor Drive", H: "Fur Coat" },
+	},
+	escavalier: {
+		inherit: true,
+		abilities: { 0: "Mirror Armor", 1: "Overcoat", H: "Regenerator" },
+	},
+	brutebonnet: {
+		inherit: true,
+		abilities: { 0: "Protosynthesis", H: "Anticipation" },
+	},
+	galvantula: {
+		inherit: true,
+		abilities: { 0: "Compound Eyes", 1: "Unnerve", H: "Battery" },
+	},
+	ferrothorn: {
+		inherit: true,
+		abilities: { 0: "Iron Barbs", H: "Magnet Pull" },
+	},
+	klang: {
+		inherit: true,
+		abilities: { 0: "Clear Body", 1: "Minus", H: "Levitate" },
+	},
+	klinklang: {
+		inherit: true,
+		abilities: { 0: "Clear Body", 1: "Iron Barbs", H: "Levitate" },
+	},
+	eelektrik: {
+		inherit: true,
+		abilities: { 0: "Levitate", 1: "Swift Swim", H: "Strong Jaw" },
+	},
+	eelektross: {
+		inherit: true,
+		abilities: { 0: "Levitate", 1: "Swift Swim", H: "Strong Jaw" },
+	},
+	elgyem: {
+		inherit: true,
+		abilities: { 0: "Illusion", 1: "Tinted Lens", H: "Analytic" },
+	},
+	beheeyem: {
+		inherit: true,
+		abilities: { 0: "Illusion", 1: "Tinted Lens", H: "Analytic" },
+	},
+	chandelure: {
+		inherit: true,
+		abilities: { 0: "Flash Fire", 1: "Infiltrator", H: "Shadow Shield" },
+	},
+	chandeluremega: {
+		inherit: true,
+		abilities: { 0: "Magic Guard" },
+	},
+	haxorus: {
+		inherit: true,
+		abilities: { 0: "Unnerve", 1: "Mold Breaker", H: "Steely Spirit" },
+	},
+	beartic: {
+		inherit: true,
+		abilities: { 0: "Thick Fat", 1: "Mountaineer", H: "Swift Swim" },
+	},
+	cryogonal: {
+		inherit: true,
+		abilities: { 0: "Levitate", H: "Supreme Overlord" },
+	},
+	accelgor: {
+		inherit: true,
+		abilities: { 0: "Infiltrator", 1: "Unburden", H: "Technician" },
+	},
+	stunkfisk: {
+		inherit: true,
+		abilities: { 0: "Static", 1: "Water Absorb", H: "Stakeout" },
+	},
+	stunkfiskgalar: {
+		inherit: true,
+		abilities: { 0: "Mimicry", 1: "Iron Barbs", H: "Stakeout" },
+	},
+	druddigon: {
+		inherit: true,
+		baseStats: { hp: 92, atk: 120, def: 90, spa: 60, spd: 90, spe: 48 },
+		abilities: { 0: "Rough Skin", 1: "Rocky Payload", H: "Orichalcum Pulse" },
+	},
+	golurk: {
+		inherit: true,
+		abilities: { 0: "Iron Fist", 1: "No Guard", H: "Dauntless Shield" },
+	},
+	bisharp: {
+		inherit: true,
+		abilities: { 0: "Defiant", 1: "Sharpness", H: "Pressure" },
+	},
+	kingambit: {
+		inherit: true,
+		abilities: { 0: "Defiant", 1: "Supreme Overlord", H: "Pressure" },
+	},
+	bouffalant: {
+		inherit: true,
+		abilities: { 0: "Reckless", 1: "Fur Coat", H: "Stakeout" },
+	},
+	braviary: {
+		inherit: true,
+		abilities: { 0: "Mountaineer", 1: "Sheer Force", H: "Defiant" },
+	},
+	braviaryhisui: {
+		inherit: true,
+		abilities: { 0: "No Guard", 1: "Sheer Force", H: "Tinted Lens" },
+	},
+	mandibuzz: {
+		inherit: true,
+		abilities: { 0: "Presistent", 1: "Overcoat", H: "Weak Armor" },
+	},
+	heatmor: {
+		inherit: true,
+		abilities: { 0: "Gluttony", 1: "Flash Fire", H: "Earth Eater" },
+	},
+	durant: {
+		inherit: true,
+		abilities: { 0: "Hustle", 1: "Steelworker", H: "Truant" },
+	},
+	zweilous: {
+		inherit: true,
+		abilities: { 0: "Hustle", H: "Strong Jaw" },
+	},
+	hydreigon: {
+		inherit: true,
+		abilities: { 0: "Levitate", H: "Mega Launcher" },
+	},
+	ironjugulis: {
+		inherit: true,
+		abilities: { 0: "Quark Drive", H: "Motor Drive" },
+	},
+	volcarona: {
+		inherit: true,
+		abilities: { 0: "Magma Armor", H: "Swarm" },
+	},
+	slitherwing: {
+		inherit: true,
+		abilities: { 0: "Protosynthesis", H: "Fluffy" },
+	},
+	ironmoth: {
+		inherit: true,
+		abilities: { 0: "Quark Drive", H: "Solar Power" },
+	},
+	ironleaves: {
+		inherit: true,
+		abilities: { 0: "Quark Drive", H: "Queenly Majesty" },
+	},
+	ironboulder: {
+		inherit: true,
+		abilities: { 0: "Quark Drive", H: "Clear Body" },
+	},
+	ironcrown: {
+		inherit: true,
+		abilities: { 0: "Quark Drive", H: "Magic Guard" },
+	},
+	tornadus: {
+		inherit: true,
+		abilities: { 0: "No Guard", H: "Prankster" },
+	},
+	thundurus: {
+		inherit: true,
+		abilities: { 0: "Guts", H: "Prankster" },
+	},
+	landorus: {
+		inherit: true,
+		abilities: { 0: "Mold Breaker", H: "Sheer Force" },
+	},
+	enamorous: {
+		inherit: true,
+		abilities: { 0: "Rebound", H: "Contrary" },
+	},
+	reshiram: {
+		inherit: true,
+		abilities: { 0: "Turboblaze", H: "Dragonize" },
+	},
+	zekrom: {
+		inherit: true,
+		abilities: { 0: "Teravolt", H: "Dragonize" },
+	},
+	kyurem: {
+		inherit: true,
+		abilities: { 0: "Pressure", H: "Mold Breaker" },
+	},
+	keldeoresolute: {
+		inherit: true,
+		abilities: { 0: "Sharpness" },
+	},
+	meloetta: {
+		inherit: true,
+		abilities: { 0: "Serene Grace", H: "Punk Rock" },
+	},
+	meloettapirouette: {
+		inherit: true,
+		abilities: { 0: "Serene Grace", H: "Dancer" },
+	},
+	genesect: {
+		inherit: true,
+		abilities: { 0: "Download", 1: "Mega Launcher", H: "Sheer Force" },
+	},
+	relicanthancient: {
     num: 369,
     name: "Relicanth-Ancient",
     baseSpecies: "Relicanth",
