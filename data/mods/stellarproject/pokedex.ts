@@ -1707,6 +1707,58 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		inherit: true,
 		abilities: { 0: "Beast Boost", H: "Iron Fist" },
 	},
+  pheromosa: {
+		inherit: true,
+		abilities: { 0: "Beast Boost", H: "Queenly Majesty" },
+	},
+  xurkitree: {
+		inherit: true,
+		abilities: { 0: "Beast Boost", H: "Hadron Engine" },
+	},
+  celesteela: {
+		inherit: true,
+		abilities: { 0: "Beast Boost", H: "Heatproof" },
+	},
+  kartana: {
+		inherit: true,
+		abilities: { 0: "Beast Boost", H: "Quick Draw" },
+	},
+  guzzlord: {
+		inherit: true,
+		abilities: { 0: "Beast Boost", H: "Forewarn" },
+	},
+  necrozma: {
+		inherit: true,
+		abilities: { 0: "Prism Armor", 1: "Tera Shell", H: "Interstellar Sin" },
+	},
+  necrozmaduskmane: {
+		inherit: true,
+		abilities: { 0: "Prism Armor", 1: "Moxie", H: "Full Metal Body" },
+	},
+  necrozmadawnwings: {
+		inherit: true,
+		abilities: { 0: "Prism Armor", 1: "Sacred Wraith", H: "Shadow Shield" },
+	},
+  necrozmaultra: {
+		inherit: true,
+		abilities: { 0: "Neuroforce", H: "Interstellar Sin" },
+	},
+  poipole: {
+		inherit: true,
+		abilities: { 0: "Beast Boost", H: "Dragonize" },
+	},
+  naganadel: {
+		inherit: true,
+		abilities: { 0: "Beast Boost", H: "Berserk" },
+	},
+  stakataka: {
+		inherit: true,
+		abilities: { 0: "Beast Boost", H: "Analytic" },
+	},
+  blacephalon: {
+		inherit: true,
+		abilities: { 0: "Beast Boost", H: "Prankster" },
+	},
 	relicanthancient: {
     num: 369,
     name: "Relicanth-Ancient",
