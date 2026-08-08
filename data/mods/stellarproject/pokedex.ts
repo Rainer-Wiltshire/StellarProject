@@ -1538,6 +1538,163 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		inherit: true,
 		abilities: { 0: "Water Absorb", 1: "Steam Engine", H: "Mountaineer" },
 	},
+  decidueye: {
+		inherit: true,
+		abilities: { 0: "Overgrow", 1: "Long Reach", H: "Quick Draw" },
+	},
+  decidueyehisui: {
+		inherit: true,
+		abilities: { 0: "Overgrow", 1: "Scrappy", H: "Wind Rider" },
+	},
+  incineroar: {
+		inherit: true,
+		abilities: { 0: "Blaze", 1: "Moxie", H: "Intimidate" },
+	},
+  primarina: {
+		inherit: true,
+		abilities: { 0: "Torrent", 1: "Liquid Voice", H: "Healer" },
+	},
+  toucannon: {
+		inherit: true,
+		abilities: { 0: "Flare Boost", 1: "Skill Link", H: "Pickup" },
+	},
+  gumshoos: {
+		inherit: true,
+		abilities: { 0: "Stakeout", 1: "Battery", H: "Adaptability" },
+	},
+  vikavolt: {
+		inherit: true,
+		abilities: { 0: "Levitate", H: "Unburden" },
+	},
+  crabominable: {
+		inherit: true,
+		abilities: { 0: "Mountaineer", 1: "Iron Fist", H: "Fur Coat" },
+	},
+  crabominablemega: {
+		inherit: true,
+		abilities: { 0: "Tough Claws" },
+	},
+  oricorio: {
+		inherit: true,
+		abilities: { 0: "Dancer", 1: "Berserk", H: "Opportunist" },
+	},
+  oricoriopompom: {
+		inherit: true,
+		abilities: { 0: "Dancer", 1: "Costar", H: "No Guard" },
+	},
+  oricoriopau: {
+		inherit: true,
+		abilities: { 0: "Dancer", 1: "Unaware", H: "Hospitality" },
+	},
+  oricoriosensu: {
+		inherit: true,
+		abilities: { 0: "Dancer", 1: "Purifying Salt", H: "Download" },
+	},
+  ribombee: {
+		inherit: true,
+		abilities: { 0: "Shield Dust", 1: "Sweet Veil", H: "Punk Rock" },
+	},
+  ribombeetotem: {
+		inherit: true,
+		abilities: { 0: "Shield Dust", 1: "Sweet Veil", H: "Punk Rock" },
+	},
+  lycanroc: {
+		inherit: true,
+		abilities: { 0: "Skill Link", 1: "Sand Rush", H: "Intimidate" },
+	},
+  lycanrocmidnight: {
+		inherit: true,
+		abilities: { 0: "Reckless", 1: "No Guard", H: "Dark Aura" },
+	},
+  lycanrocdusk: {
+		inherit: true,
+		abilities: { 0: "Super Luck", 1: "Tough Claws", H: "Steakout" },
+	},
+  mareanie: {
+		inherit: true,
+		abilities: { 0: "Merciless", 1: "Power Spot", H: "Regenerator" },
+	},
+  toxapex: {
+		inherit: true,
+		abilities: { 0: "Merciless", 1: "Power Spot", H: "Regenerator" },
+	},
+  mudsdale: {
+		inherit: true,
+		abilities: { 0: "Water Absorb", 1: "Stamina", H: "Purifying Salt" },
+	},
+  lurantis: {
+		inherit: true,
+		abilities: { 0: "Seed Sower", 1: "Contrary", H: "Sharpness" },
+	},
+  lurantistotem: {
+		inherit: true,
+		abilities: { 0: "Seed Sower", 1: "Contrary", H: "Sharpness" },
+	},
+  shiinotic: {
+		inherit: true,
+		abilities: { 0: "Illuminate", 1: "Rain Dish", H: "Vessel of Ruin" },
+	},
+  salazzle: {
+		inherit: true,
+		abilities: { 0: "Corrosion", 1: "Supreme Overlord", H: "Dragon's Maw" },
+	},
+  salazzletotem: {
+		inherit: true,
+		abilities: { 0: "Corrosion", 1: "Supreme Overlord", H: "Dragon's Maw" },
+	},
+  tsareena: {
+		inherit: true,
+		abilities: { 0: "Moxie", 1: "Queenly Majesty", H: "Thick Fat" },
+	},
+  comfey: {
+		inherit: true,
+		abilities: { 0: "Hospitality", 1: "Triage", H: "Prankster" },
+	},
+  oranguru: {
+		inherit: true,
+		abilities: { 0: "Inner Focus", 1: "Symbiosis", H: "Beads of Ruin" },
+	},
+  passimian: {
+		inherit: true,
+		abilities: { 0: "Receiver", 1: "Klutz", H: "Shadow Tag" },
+	},
+  wimpod: {
+		inherit: true,
+		abilities: { 0: "Wimp Out", H: "Swarm" },
+	},
+  golisopod: {
+		inherit: true,
+		abilities: { 0: "Emergency Exit", H: "Tough Claws" },
+	},
+  palossand: {
+		inherit: true,
+		abilities: { 0: "Water Compaction", H: "Sand Spit" },
+	},
+  pyukumuku: {
+		inherit: true,
+		abilities: { 0: "Innards Out", 1: "Infiltrator", H: "Unaware" },
+	},
+  turtonator: {
+		inherit: true,
+		abilities: { 0: "Magma Armor", 1: "Anger Shell", H: "Sheer Force" },
+	},
+  bruxish: {
+		inherit: true,
+		abilities: { 0: "Dazzling", 1: "Strong Jaw", H: "Protean" },
+	},
+  drampa: {
+		inherit: true,
+		abilities: { 0: "Berserk", 1: "Flare Boost", H: "Drizzle" },
+	},
+  drampamega: {
+		inherit: true,
+		abilities: { 0: "Stormsurge" },
+	},
+  dhelmise: {
+		inherit: true,
+    baseStats: { hp: 100, atk: 131, def: 100, spa: 86, spd: 90, spe: 40 },
+		abilities: { 0: "Steelworker", 1: "Swift Swim", H: "Filter" },
+	},
 	relicanthancient: {
     num: 369,
     name: "Relicanth-Ancient",
