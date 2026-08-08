@@ -1372,6 +1372,172 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		inherit: true,
 		abilities: { 0: "Torrent", 1: "Protean", H: "Sharpness" },
 	},
+  talonflame: {
+		inherit: true,
+		abilities: { 0: "Flame Body", 1: "Tough Claws", H: "Gale Wings" },
+	},
+  pyroar: {
+		inherit: true,
+		abilities: { 0: "Rivalry", 1: "Unnerve", H: "Scrappy" },
+	},
+  floetteeternal: {
+		inherit: true,
+		abilities: { 0: "Aura Break", H: "Prism Armor" },
+	},
+  gogoat: {
+		inherit: true,
+		abilities: { 0: "Grass Pelt", 1: "Simple", H: "Speed Boost" },
+	},
+  pangoro: {
+		inherit: true,
+		abilities: { 0: "Iron Fist", 1: "Scrappy", H: "Fur Coat" },
+	},
+  meowstic: {
+		inherit: true,
+		abilities: { 0: "Keen Eye", 1: "Prankster", H: "Compound Eyes" },
+	},
+  meowsticf: {
+		inherit: true,
+		abilities: { 0: "Keen Eye", 1: "Competitive", H: "Mind's Eye" },
+	},
+  meowsticmmega: {
+		inherit: true,
+		abilities: { 0: "Power Spot" },
+	},
+  meowsticfmega: {
+		inherit: true,
+		abilities: { 0: "Power Spot" },
+	},
+  aegislash: {
+		inherit: true,
+		baseStats: { hp: 60, atk: 50, def: 150, spa: 50, spd: 150, spe: 60 },
+	},
+  aegislashblade: {
+		inherit: true,
+		baseStats: { hp: 60, atk: 150, def: 50, spa: 150, spd: 50, spe: 60 },
+  },
+  aromatisse: {
+		inherit: true,
+    baseStats: { hp: 101, atk: 72, def: 90, spa: 99, spd: 89, spe: 29 },
+		abilities: { 0: "Aroma Veil", 1: "Neutralizing Gas", H: "Poison Heal" },
+	},
+  slurpuff: {
+		inherit: true,
+		abilities: { 0: "Well-Baked Body", 1: "Pixilate", H: "Unburden" },
+	},
+  malamar: {
+		inherit: true,
+		abilities: { 0: "Contrary", 1: "Suction Cups", H: "Protean" },
+	},
+  dragalge: {
+		inherit: true,
+		abilities: { 0: "Multiscale", 1: "Corrosion", H: "Adaptability" },
+	},
+  clawitzer: {
+		inherit: true,
+		abilities: { 0: "Mega Launcher", H: "No Guard" },
+	},
+  heliolisk: {
+		inherit: true,
+		abilities: { 0: "Dry Skin", 1: "Sand Veil", H: "Mega Sol" },
+	},
+  tyrantrum: {
+		inherit: true,
+		abilities: { 0: "Strong Jaw", 1: "Dragonize", H: "Rock Head" },
+	},
+  aurorus: {
+		inherit: true,
+		abilities: { 0: "Refrigerate", 1: "Technician", H: "Snow Warning" },
+	},
+  hawlucha: {
+		inherit: true,
+		abilities: { 0: "Defiant", 1: "Unburden", H: "Arena Trap" },
+	},
+  hawluchamega: {
+		inherit: true,
+		abilities: { 0: "Big Pecks" },
+	},
+  dedenne: {
+		inherit: true,
+		abilities: { 0: "Cheek Pouch", 1: "Technician", H: "Pick Up" },
+	},
+  carbink: {
+		inherit: true,
+		abilities: { 0: "Misty Surge", 1: "Clear Body", H: "Sturdy" },
+	},
+  goodra: {
+		inherit: true,
+		abilities: { 0: "Gooey", 1: "Sap Sipper", H: "Poison Heal" },
+	},
+  sliggoohisui: {
+		inherit: true,
+		abilities: { 0: "Gooey", 1: "Shell Armor", H: "Heatproof" },
+	},
+  goodrahisui: {
+		inherit: true,
+		abilities: { 0: "Gooey", 1: "Shell Armor", H: "Water Bubble" },
+	},
+  trevenant: {
+		inherit: true,
+    baseStats: { hp: 85, atk: 110, def: 76, spa: 65, spd: 102, spe: 56 },
+		abilities: { 0: "Harvest", 1: "Natural Cure", H: "Triage" },
+	},
+  gourgeist: {
+		inherit: true,
+    baseStats: { hp: 65, atk: 58, def: 122, spa: 90, spd: 75, spe: 84 },
+	},
+  gourgeistsmall: {
+		inherit: true,
+    baseStats: { hp: 55, atk: 58, def: 122, spa: 85, spd: 75, spe: 99 },
+	},
+  gourgeistlarge: {
+		inherit: true,
+    baseStats: { hp: 75, atk: 58, def: 122, spa: 95, spd: 75, spe: 69 },
+	},
+  gourgeistsuper: {
+		inherit: true,
+    baseStats: { hp: 85, atk: 58, def: 122, spa: 100, spd: 75, spe: 54 },
+	},
+  avalugg: {
+		inherit: true,
+		abilities: { 0: "Ice Body", 1: "Sturdy", H: "Snow Warning" },
+	},
+  avalugghisui: {
+		inherit: true,
+		abilities: { 0: "Strong Jaw", 1: "Sturdy", H: "Gorilla Tactics" },
+	},
+  noivern: {
+		inherit: true,
+		abilities: { 0: "Frisk", 1: "Infiltrator", H: "Punk Rock" },
+	},
+  xerneas: {
+		inherit: true,
+		abilities: { 0: "Fairy Aura", H: "Illuminate" },
+	},
+  xerneasneutral: {
+		inherit: true,
+		abilities: { 0: "Fairy Aura", H: "Illuminate" },
+	},
+  yveltal: {
+		inherit: true,
+		abilities: { 0: "Dark Aura", H: "Defiant" },
+	},
+  zygarde: {
+		inherit: true,
+		abilities: { 0: "Aura Break", H: "Power Construct" },
+	},
+  zygarde10: {
+		inherit: true,
+		abilities: { 0: "Aura Break", H: "Power Construct" },
+	},
+  diancie: {
+		inherit: true,
+		abilities: { 0: "Clear Body", H: "Sharpness" },
+	},
+  volcanion: {
+		inherit: true,
+		abilities: { 0: "Water Absorb", 1: "Steam Engine", H: "Mountaineer" },
+	},
 	relicanthancient: {
     num: 369,
     name: "Relicanth-Ancient",
