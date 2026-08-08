@@ -1695,6 +1695,18 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     baseStats: { hp: 100, atk: 131, def: 100, spa: 86, spd: 90, spe: 40 },
 		abilities: { 0: "Steelworker", 1: "Swift Swim", H: "Filter" },
 	},
+  kommoo: {
+		inherit: true,
+		abilities: { 0: "Overcoat", 1: "Soundproof", H: "Filter" },
+	},
+  nihilego: {
+		inherit: true,
+		abilities: { 0: "Beast Boost", H: "Poison Puppeteer" },
+	},
+  buzzwole: {
+		inherit: true,
+		abilities: { 0: "Beast Boost", H: "Iron Fist" },
+	},
 	relicanthancient: {
     num: 369,
     name: "Relicanth-Ancient",
