@@ -1356,6 +1356,22 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		inherit: true,
 		abilities: { 0: "Download", 1: "Mega Launcher", H: "Sheer Force" },
 	},
+  chesnaught: {
+		inherit: true,
+		abilities: { 0: "Overgrow", 1: "Bulletproof", H: "Filter" },
+	},
+  chesnaughtmega: {
+		inherit: true,
+		abilities: { 0: "Iron Barbs" },
+	},
+  delphox: {
+		inherit: true,
+		abilities: { 0: "Blaze", 1: "Magician", H: "No Guard" },
+	},
+  greninja: {
+		inherit: true,
+		abilities: { 0: "Torrent", 1: "Protean", H: "Sharpness" },
+	},
 	relicanthancient: {
     num: 369,
     name: "Relicanth-Ancient",
