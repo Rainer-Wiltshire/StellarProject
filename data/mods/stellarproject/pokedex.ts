@@ -1759,6 +1759,308 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		inherit: true,
 		abilities: { 0: "Beast Boost", H: "Prankster" },
 	},
+  rillaboom: {
+		inherit: true,
+		abilities: { 0: "Overgrow", 1: "Punk Rock", H: "Grassy Surge" },
+	},
+  cinderace: {
+		inherit: true,
+		abilities: { 0: "Blaze", 1: "Quick Feet", H: "Libero" },
+	},
+  Inteleon: {
+		inherit: true,
+		abilities: { 0: "Torrent", 1: "Mega Launcher", H: "Sniper" },
+	},
+  greedent: {
+		inherit: true,
+		abilities: { 0: "Cheek Pouch", 1: "Gluttony", H: "Harvest" },
+	},
+  corviknight: {
+		inherit: true,
+		abilities: { 0: "Pressure", 1: "Mirror Armor", H: "Friend Guard" },
+	},
+  orbeetle: {
+		inherit: true,
+		abilities: { 0: "Frisk", 1: "Swarm", H: "Psychic Surge" },
+	},
+  thievul: {
+		inherit: true,
+		abilities: { 0: "Run Away", 1: "Sniper", H: "Stakeout" },
+	},
+  eldegoss: {
+		inherit: true,
+		abilities: { 0: "Cotton Down", 1: "Regenerator", H: "Wind Rider" },
+	},
+  dubwool: {
+		inherit: true,
+		abilities: { 0: "Fluffy", 1: "Cotton Down", H: "Rebound" },
+	},
+  drednaw: {
+		inherit: true,
+		abilities: { 0: "Strong Jaw", 1: "Rock Head", H: "Swift Swim" },
+	},
+  boltund: {
+		inherit: true,
+		abilities: { 0: "Strong Jaw", 1: "Pickup", H: "Competitive" },
+	},
+  flapple: {
+		inherit: true,
+		abilities: { 0: "Ripen", 1: "Tinted Lens", H: "Hustle" },
+	},
+  appletun: {
+		inherit: true,
+		abilities: { 0: "Ripen", 1: "Well-Baked Body", H: "Thick Fat" },
+	},
+  hydrapple: {
+		inherit: true,
+		abilities: { 0: "Supersweet Syrup", 1: "Poison Heal", H: "Regenerator" },
+	},
+  sandaconda: {
+		inherit: true,
+		abilities: { 0: "Sand Spit", 1: "Shed Skin", H: "Intimidate" },
+	},
+  Cramorant: {
+		inherit: true,
+		abilities: { 0: "Gulp Missle", H: "Big Pecks" },
+	},
+  toxtricity: {
+		inherit: true,
+		abilities: { 0: "Punk Rock", 1: "Technician", H: "Rock Head" },
+	},
+  toxtricitylowkey: {
+		inherit: true,
+		abilities: { 0: "Punk Rock", 1: "Technician", H: "Galvanize" },
+	},
+  sizzlipede: {
+		inherit: true,
+		abilities: { 0: "Flash Fire", 1: "Flame Body", H: "Well-Baked Body" },
+	},
+  centiskorch: {
+		inherit: true,
+    baseStats: { hp: 100, atk: 115, def: 90, spa: 65, spd: 90, spe: 65 },
+		abilities: { 0: "Flash Fire", 1: "Flame Body", H: "Well-Baked Body" },
+	},
+  grapploct: {
+		inherit: true,
+		abilities: { 0: "Armor Tail", 1: "Technician", H: "Regenerator" },
+	},
+  hatterene: {
+		inherit: true,
+		abilities: { 0: "Healer", 1: "Magic Bounce", H: "Tough Claws" },
+	},
+  grimmsnarl: {
+		inherit: true,
+		abilities: { 0: "Prankster", 1: "Tangling Hair", H: "Soul Heart" },
+	},
+  cursola: {
+		inherit: true,
+		abilities: { 0: "Perish Body", 1: "Weak Armor", H: "Solid Rock" },
+	},
+  sirfetchd: {
+		inherit: true,
+		abilities: { 0: "Well-Baked Body", 1: "Scrappy", H: "Super Luck" },
+	},
+  alcremie: {
+		inherit: true,
+		abilities: { 0: "Aroma Veil", 1: "Water Absorb", H: "Healer" },
+	},
+  falinks: {
+		inherit: true,
+		abilities: { 0: "Battle Armor", 1: "Skill Link", H: "Defiant" },
+	},
+  pincurchin: {
+		inherit: true,
+		abilities: { 0: "Lightning Rod", 1: "Stormsurge", H: "Electric Surge" },
+	},
+  indeedee: {
+		inherit: true,
+		abilities: { 0: "Sheer Force", 1: "Synchronize", H: "Psychic Surge" },
+	},
+  indeedeef: {
+		inherit: true,
+		abilities: { 0: "Hospitality", 1: "Synchronize", H: "Psychic Surge" },
+	},
+  copperajah: {
+		inherit: true,
+		abilities: { 0: "Heavy Metal", 1: "Sheer Force", H: "Regenerator" },
+	},
+  duraludon: {
+		inherit: true,
+		abilities: { 0: "Heavy Metal", 1: "Mega Launcher", H: "Stalwart" },
+	},
+  archaludon: {
+		inherit: true,
+		abilities: { 0: "Stamina", 1: "Mega Launcher", H: "Stalwart" },
+	},
+  dragapult: {
+		inherit: true,
+		abilities: { 0: "Clear Body", 1: "Infiltrator", H: "Storm Drain" },
+	},
+  regieleki: {
+		inherit: true,
+		abilities: { 0: "Transistor", H: "Sap Sipper" },
+	},
+  regidrago: {
+		inherit: true,
+		abilities: { 0: "Dragon's Maw", H: "Magma Armor" },
+	},
+  glastrier: {
+		inherit: true,
+		abilities: { 0: "Mountaineer", H: "Chilling Neigh" },
+	},
+  spectrier: {
+		inherit: true,
+		abilities: { 0: "Infiltrator", H: "Grim Neigh" },
+	},
+  meowscarada: {
+		inherit: true,
+		abilities: { 0: "Overgrow", 1: "Magician", H: "Libero" },
+	},
+  skeledirge: {
+		inherit: true,
+		abilities: { 0: "Blaze", 1: "Punk Rock", H: "Unaware" },
+	},
+  quaquaval: {
+		inherit: true,
+		abilities: { 0: "Torrent", 1: "Dancer", H: "Moxie" },
+	},
+  lokix: {
+		inherit: true,
+		abilities: { 0: "Swarm", 1: "Defiant", H: "Tinted Lens" },
+	},
+  dachsbun: {
+		inherit: true,
+		abilities: { 0: "Well-Baked Body", 1: "Truant", H: "Aroma Veil" },
+	},
+  arboliva: {
+		inherit: true,
+		abilities: { 0: "Seed Sower", 1: "Gooey", H: "Harvest" },
+	},
+  squawkabilly: {
+		inherit: true,
+    baseStats: { hp: 82, atk: 106, def: 51, spa: 45, spd: 51, spe: 92 },
+		abilities: { 0: "Intimidate", 1: "Hustle", H: "Stakeout" },
+	},
+  squawkabillyblue: {
+		inherit: true,
+    baseStats: { hp: 82, atk: 106, def: 51, spa: 45, spd: 51, spe: 92 },
+		abilities: { 0: "Intimidate", 1: "Guts", H: "Illusion" },
+	},
+  squawkabillywhite: {
+		inherit: true,
+    baseStats: { hp: 82, atk: 106, def: 51, spa: 45, spd: 51, spe: 92 },
+		abilities: { 0: "Intimidate", 1: "Moxie", H: "Parental Bond" },
+	},
+  squawkabillyyellow: {
+		inherit: true,
+    baseStats: { hp: 82, atk: 106, def: 51, spa: 45, spd: 51, spe: 92 },
+		abilities: { 0: "Intimidate", 1: "Sheer Force", H: "Good as Gold" },
+	},
+  armarouge: {
+		inherit: true,
+		abilities: { 0: "Flash Fire", 1: "Weak Armor", H: "Stamina" },
+	},
+  ceruledge: {
+		inherit: true,
+		abilities: { 0: "Flash Fire", 1: "Weak Armor", H: "Sword of Ruin" },
+	},
+  bellibolt: {
+		inherit: true,
+		abilities: { 0: "Electromorphosis", 1: "Damp", H: "Intimidate" },
+	},
+  kilowattrel: {
+		inherit: true,
+		abilities: { 0: "Wind Power", 1: "Volt Absorb", H: "Aerilate" },
+	},
+  brambleghast: {
+		inherit: true,
+		abilities: { 0: "Wind Rider", 1: "Wandering Spirit", H: "Speed Boost" },
+	},
+  klawf: {
+		inherit: true,
+		abilities: { 0: "Sap Sipper", 1: "Anger Shell", H: "Regenerator" },
+	},
+  scovillain: {
+		inherit: true,
+		abilities: { 0: "Opportunist", 1: "Chlorophyll", H: "Berserk" },
+	},
+  rabsca: {
+		inherit: true,
+		abilities: { 0: "Synchronize", 1: "Telepathy", H: "Prankster" },
+	},
+  tinkaton: {
+		inherit: true,
+		abilities: { 0: "Mold Breaker", 1: "Pickpocket", H: "Steelworker" },
+	},
+  wugtrio: {
+		inherit: true,
+		abilities: { 0: "Gooey", 1: "Sand Veil", H: "Technician" },
+	},
+  bombirdier: {
+		inherit: true,
+    baseStats: { hp: 90, atk: 103, def: 85, spa: 60, spd: 82, spe: 82 },
+		abilities: { 0: "Dark Aura", 1: "Rocky Payload", H: "Sand Stream" },
+	},
+  revavroom: {
+		inherit: true,
+		abilities: { 0: "Overcoat", 1: "Filter", H: "Full Metal Body" },
+	},
+  glimmora: {
+		inherit: true,
+		abilities: { 0: "Storm Drain", 1: "Corrosion", H: "Toxic Debris" },
+	},
+  houndstone: {
+		inherit: true,
+		abilities: { 0: "Fluffy", 1: "Rocky Payload", H: "Tablets of Ruin" },
+	},
+  veluza: {
+		inherit: true,
+		abilities: { 0: "Mold Breaker", 1: "Sharpness", H: "Multiscale" },
+	},
+  tatsugiri: {
+		inherit: true,
+		abilities: { 0: "Commander", H: "Protean" },
+	},
+  tatsugiridroopy: {
+		inherit: true,
+		abilities: { 0: "Commander", H: "Protean" },
+	},
+  tatsugiristretchy: {
+		inherit: true,
+		abilities: { 0: "Commander", H: "Protean" },
+	},
+  dudunsparce: {
+		inherit: true,
+		abilities: { 0: "Serene Grace", 1: "Wimp Out", H: "Multiscale" },
+	},
+  dudunsparcethreesegment: {
+		inherit: true,
+		abilities: { 0: "Serene Grace", 1: "Wimp Out", H: "Multiscale" },
+	},
+  baxcalibur: {
+		inherit: true,
+		abilities: { 0: "Thermal Exchange", 1: "Ice Body", H: "Refrigerate" },
+	},
+  gholdengo: {
+		inherit: true,
+		abilities: { 0: "Good as Gold", H: "Full Metal Body" },
+	},
+  wochien: {
+		inherit: true,
+		abilities: { 0: "Regenerator", H: "Tablets of Ruin" },
+	},
+  chienpao: {
+		inherit: true,
+		abilities: { 0: "Strong Jaw", H: "Sword of Ruin" },
+	},
+  tinglu: {
+		inherit: true,
+		abilities: { 0: "Purifying Salt", H: "Vessel of Ruin" },
+	},
+  chiyu: {
+		inherit: true,
+		abilities: { 0: "Turboblaze", H: "Beads of Ruin" },
+	},
 	relicanthancient: {
     num: 369,
     name: "Relicanth-Ancient",
