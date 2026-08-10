@@ -560,6 +560,11 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     inherit: true,
     abilities: { 0: "Regenerator", H: "Mega Sol" },
   },
+  sceptile: {
+    inherit: true,
+    otherFormes: ["Sceptile-Noscoan"],
+		formeOrder: ["Sceptile", "Sceptile-Noscoan"],
+  },
   sceptilemega: {
     inherit: true,
     abilities: { 0: "Super Luck" },
@@ -910,6 +915,12 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     inherit: true,
     abilities: { 0: "Inner Focus", 1: "Mind's Eye", H: "Flare Boost" },
   },
+  hippowdon: {
+    inherit: true,
+    abilities: { 0: "Sand Stream", H: "Strong Jaw" },
+    otherFormes: ["Hippowdon-Noscoan"],
+		formeOrder: ["Hippowdon", "Hippowdon-Noscoan"],
+  },
   drapion: {
     inherit: true,
     baseStats: { hp: 80, atk: 130, def: 110, spa: 60, spd: 75, spe: 95 },
@@ -1235,6 +1246,11 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		inherit: true,
 		abilities: { 0: "Mimicry", 1: "Iron Barbs", H: "Stakeout" },
 	},
+  mienshao: {
+    inherit: true,
+    otherFormes: ["Mienshao-Noscoan"],
+		formeOrder: ["Mienshao", "Mienshao-Noscoan"],
+  },
 	druddigon: {
 		inherit: true,
 		baseStats: { hp: 92, atk: 120, def: 90, spa: 60, spd: 90, spe: 48 },
@@ -1371,6 +1387,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
   greninja: {
 		inherit: true,
 		abilities: { 0: "Torrent", 1: "Protean", H: "Sharpness" },
+    otherFormes: ["Greninja-Noscoan"],
+		formeOrder: ["Greninja", "Greninja-Noscoan"],
 	},
   talonflame: {
 		inherit: true,
@@ -1383,6 +1401,11 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
   floetteeternal: {
 		inherit: true,
 		abilities: { 0: "Aura Break", H: "Prism Armor" },
+	},
+  florges: {
+		inherit: true,
+		otherFormes: ["Florges-Noscoan"],
+		formeOrder: ["Florges", "Florges-Noscoan"],
 	},
   gogoat: {
 		inherit: true,
@@ -1601,6 +1624,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
   lycanroc: {
 		inherit: true,
 		abilities: { 0: "Skill Link", 1: "Sand Rush", H: "Intimidate" },
+    otherFormes: ["Lycanroc-Midnight", "Lycanroc-Dusk", "Lycanroc-Noscoan", "Lycanroc-Midnight-Noscoan", "Lycanroc-Dawn-Noscoan"],
+		formeOrder: ["Lycanroc", "Lycanroc-Midnight", "Lycanroc-Dusk", "Lycanroc-Noscoan", "Lycanroc-Midnight-Noscoan", "Lycanroc-Dawn-Noscoan"],
 	},
   lycanrocmidnight: {
 		inherit: true,
@@ -1674,6 +1699,20 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		inherit: true,
 		abilities: { 0: "Innards Out", 1: "Infiltrator", H: "Unaware" },
 	},
+  minior: {
+    inherit: true,
+    types: ["Rock", "Psychic"],
+    otherFormes: ["Minior-Meteor", "Minior-Noscoan", "Minior-Meteor-Noscoan"],
+    formeOrder: [
+			// All of the colored Minior Meteor formes (unsupported by PS) are numbers 0-6
+			"Minior-Meteor", "Minior-Meteor", "Minior-Meteor", "Minior-Meteor", "Minior-Meteor", "Minior-Meteor", "Minior-Meteor",
+			"Minior", "Minior-Orange", "Minior-Yellow", "Minior-Green", "Minior-Blue", "Minior-Indigo", "Minior-Violet", "Minior-Noscoan", "Minior-Meteor-Noscoan",
+		],
+  },
+  miniormeteor: {
+    inherit: true,
+    types: ["Rock", "Psychic"],
+  },
   turtonator: {
 		inherit: true,
 		abilities: { 0: "Magma Armor", 1: "Anger Shell", H: "Sheer Force" },
@@ -1814,6 +1853,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
   hydrapple: {
 		inherit: true,
 		abilities: { 0: "Supersweet Syrup", 1: "Poison Heal", H: "Regenerator" },
+    otherFormes: ["Hydrapple-Noscoan"],
+		formeOrder: ["Hydrapple", "Hydrapple-Noscoan"],
 	},
   sandaconda: {
 		inherit: true,
@@ -1883,6 +1924,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
   copperajah: {
 		inherit: true,
 		abilities: { 0: "Heavy Metal", 1: "Sheer Force", H: "Regenerator" },
+    otherFormes: ["Copperajah-Noscoan"],
+		formeOrder: ["Copperajah", "Copperajah-Noscoan"],
 	},
   duraludon: {
 		inherit: true,
@@ -1919,6 +1962,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
   skeledirge: {
 		inherit: true,
 		abilities: { 0: "Blaze", 1: "Punk Rock", H: "Unaware" },
+    otherFormes: ["Skeledirge-Noscoan"],
+		formeOrder: ["Skeledirge", "Skeledirge-Noscoan"],
 	},
   quaquaval: {
 		inherit: true,
@@ -2032,6 +2077,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
   dudunsparce: {
 		inherit: true,
 		abilities: { 0: "Serene Grace", 1: "Wimp Out", H: "Multiscale" },
+    otherFormes: ["Dudunsparce-Three-Segment", "Dudunsparce-Noscoan"],
+		formeOrder: ["Dudunsparce", "Dudunsparce-Three-Segment", "Dudunsparce-Noscoan"],
 	},
   dudunsparcethreesegment: {
 		inherit: true,
@@ -2152,7 +2199,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     name: "Sunaookami Shiroko",
     types: ["Ground", "Fighting"],
     gender: "F",
-    baseStats: { hp: 65, atk: 92, def: 100, spa: 86, spd: 85, spe: 100 },
+    baseStats: { hp: 65, atk: 92, def: 100, spa: 86, spd: 85, spe: 107 },
     abilities: { 0: "Pickpocket", 1: "Stakeout", H: "Simple" },
     heightm: 1.56,
     weightkg: 46,
@@ -2205,7 +2252,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     types: ["Fairy"],
     gender: "F",
     baseStats: { hp: 137, atk: 75, def: 134, spa: 55, spd: 80, spe: 60 },
-    abilities: { 0: "Friend Guard", 1: "Dauntless Shield", H: "Dry Skin" },
+    abilities: { 0: "Friend Guard", 1: "Dauntless Shield", H: "Unaware" },
     heightm: 1.63,
     weightkg: 56,
     color: "Blue",
@@ -2232,7 +2279,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     name: "Kyougoku Satsuki",
     types: ["Psychic", "Dark"],
     gender: "F",
-    baseStats: { hp: 127, atk: 48, def: 113, spa: 54, spd: 65, spe: 93 },
+    baseStats: { hp: 140, atk: 40, def: 108, spa: 66, spd: 65, spe: 81 },
     abilities: { 0: "Defeatist", H: "No Guard" },
     heightm: 1.72,
     weightkg: 59,
@@ -2247,7 +2294,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     name: "Motomiya Chiaki",
     types: ["Electric", "Dark"],
     gender: "F",
-    baseStats: { hp: 81, atk: 83, def: 93, spa: 87, spd: 65, spe: 91 },
+    baseStats: { hp: 71, atk: 83, def: 93, spa: 87, spd: 65, spe: 101 },
     abilities: { 0: "Defeatist", H: "Surge Surfer" },
     heightm: 1.67,
     weightkg: 50,
@@ -2262,7 +2309,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     name: "Natsume Iroha",
     types: ["Steel", "Dark"],
     gender: "F",
-    baseStats: { hp: 45, atk: 135, def: 85, spa: 51, spd: 119, spe: 65 },
+    baseStats: { hp: 45, atk: 135, def: 110, spa: 51, spd: 119, spe: 65 },
     abilities: { 0: "Slow Start", H: "Steelworker" },
     heightm: 1.51,
     weightkg: 38,
@@ -2291,7 +2338,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     name: "Sorasaki Hina",
     types: ["Dark", "Dragon"],
     gender: "F",
-    baseStats: { hp: 55, atk: 95, def: 105, spa: 145, spd: 105, spe: 95 },
+    baseStats: { hp: 65, atk: 75, def: 85, spa: 135, spd: 125, spe: 115 },
     abilities: { 0: "Levitate", 1: "Justified", H: "Dark Aura" },
     heightm: 1.42,
     weightkg: 35,
@@ -2304,8 +2351,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     name: "Amau Ako",
     types: ["Psychic", "Steel"],
     gender: "F",
-    baseStats: { hp: 115, atk: 65, def: 120, spa: 101, spd: 94, spe: 50 },
-    abilities: { 0: "Analytic", 1: "Power Spot", H: "Multiscale" },
+    baseStats: { hp: 130, atk: 60, def: 135, spa: 91, spd: 84, spe: 50 },
+    abilities: { 0: "Analytic", 1: "Power Spot", H: "Inner Focus" },
     heightm: 1.65,
     weightkg: 55,
     color: "Blue",
@@ -2330,7 +2377,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     name: "Hinomiya Chinatsu",
     types: ["Poison", "Fairy"],
     gender: "F",
-    baseStats: { hp: 82, atk: 70, def: 96, spa: 105, spd: 112, spe: 70 },
+    baseStats: { hp: 120, atk: 70, def: 96, spa: 95, spd: 102, spe: 52 },
     abilities: { 0: "Healer", H: "Regenerator" },
     heightm: 1.59,
     weightkg: 50,
@@ -2356,7 +2403,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     name: "Asagi Mutsuki",
     types: ["Fire", "Fairy"],
     gender: "F",
-    baseStats: { hp: 60, atk: 55, def: 95, spa: 90, spd: 77, spe: 103 },
+    baseStats: { hp: 60, atk: 55, def: 98, spa: 95, spd: 89, spe: 103 },
     abilities: { 0: "Prankster", 1: "Costar", H: "Aftermath" },
     heightm: 1.44,
     weightkg: 33,
@@ -2367,10 +2414,10 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
  onikatakayoko: {
     num: -5099,
     name: "Onikata Kayoko",
-    types: ["Ground", "Fairy"],
+    types: ["Normal", "Fairy"],
     gender: "F",
     baseStats: { hp: 57, atk: 69, def: 85, spa: 120, spd: 94, spe: 100 },
-    abilities: { 0: "Intimidate", 1: "Sheer Force", H: "Dark Aura" },
+    abilities: { 0: "Intimidate", 1: "Punk Rock", H: "Dark Aura" },
     heightm: 1.57,
     weightkg: 49,
     color: "Black",
@@ -2380,10 +2427,10 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
    igusaharuka: {
     num: -5100,
     name: "Igusa Haruka",
-    baseForme: "Calm",
+    baseForme: "Rose",
     types: ["Grass", "Fairy"],
     gender: "F",
-    baseStats: { hp: 50, atk: 80, def: 109, spa: 101, spd: 70, spe: 65 },
+    baseStats: { hp: 50, atk: 101, def: 129, spa: 70, spd: 70, spe: 55 },
     abilities: { 0: "Hunger Switch"},
     heightm: 1.57,
     weightkg: 46,
@@ -2397,10 +2444,10 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     num: -5100,
     name: "Igusa Haruka-Angry",
     baseSpecies: "Igusa Haruka",
-    forme: "Angry",
+    forme: "Thorn",
     types: ["Poison", "Fairy"],
     gender: "F",
-    baseStats: { hp: 50, atk: 80, def: 109, spa: 101, spd: 70, spe: 65 },
+    baseStats: { hp: 50, atk: 101, def: 129, spa: 70, spd: 70, spe: 55 },
     abilities: { 0: "Hunger Switch"},
     heightm: 1.57,
     weightkg: 46,
