@@ -6455,7 +6455,7 @@ wanibuchiakari: {
     types: ["Ice", "Dragon"],
     genderRatio: { M: 0.875, F: 0.125 },
     baseStats: { hp: 82, atk: 115, def: 62, spa: 83, spd: 71, spe: 117 },
-    abilities: { 0: "Inner Focus", H: "Snow Warning" },
+    abilities: { 0: "Inner Focus", H: "Draconic Surge" },
 		heightm: 1.6,
 		weightkg: 44,
 		color: "White",
