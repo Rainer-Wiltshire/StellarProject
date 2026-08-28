@@ -245,6 +245,9 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
     tendouaris: {
         tier: "OU",
     },
+    tendoukei: {
+        tier: "OU",
+    },
     tsukiyukimiyako: {
         tier: "OU",
     },
@@ -260,13 +263,13 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
     shichidoyukino: {
         tier: "OU",
     },
-    niko: {
+    yoshinoniko: {
         tier: "OU",
     },
-    kurumi: {
+    takakurakurumi: {
         tier: "OU",
     },
-    otogi: {
+    tenuinyamaotogi: {
         tier: "OU",
     },
     amachiniya: {
@@ -510,6 +513,66 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
         tier: "OU",
     },
     thefuryofset: {
+        tier: "OU",
+    },
+    drumbarka: {
+        tier: "OU",
+    },
+    komakazerabu: {
+        tier: "OU",
+    },
+    azumamirai: {
+        tier: "OU",
+    },
+    nanakadoayame: {
+        tier: "OU",
+    },
+    habuazami: {
+        tier: "OU",
+    },
+    kadenokojikokuriko: {
+        tier: "OU",
+    },
+    kakehashisubaru: {
+        tier: "OU",
+    },
+    taichikimaia: {
+        tier: "OU",
+    },
+    aramakiyakumo: {
+        tier: "OU",
+    },
+    miyoshitakane: {
+        tier: "OU",
+    },
+    shimakonoka: {
+        tier: "OU",
+    },
+    shiraoeri: {
+        tier: "OU",
+    },
+    itagakikanoe: {
+        tier: "OU",
+    },
+    kinuirena: {
+        tier: "OU",
+    },
+    sakuraimiyo: {
+        tier: "OU",
+    },
+    wakasafuyu: {
+        tier: "OU",
+    },
+    usubaritsu: {
+        tier: "OU",
+    },
+    yesod: {
+        tier: "OU",
+    },
+    daath: {
+        tier: "OU",
+    },
+    gscpresident: {
         tier: "OU",
     },
     hakureireimu: {
@@ -920,13 +983,97 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
     okunodamiyoi: {
         tier: "OU",
     },
-    izumimotoeimibattle: {
-        tier: "OU",
-    },
     skeledirgenoscoan: {
         tier: "OU",
     },
     sceptilenoscoan: {
+        tier: "OU",
+    },
+    gligarnoscoan: {
+        tier: "OU",
+    },
+    gligoyle: {
+        tier: "OU",
+    },
+    dudunsparcenoscoan: {
+        tier: "OU",
+    },
+    hippowdonnoscoan: {
+        tier: "OU",
+    },
+    drapionnoscoan: {
+        tier: "OU",
+    },
+    aerrothorn: {
+        tier: "OU",
+    },
+    mienshaonoscoan: {
+        tier: "OU",
+    },
+    greninjanoscoan: {
+        tier: "OU",
+    },
+    florgesnoscoan: {
+        tier: "OU",
+    },
+    lycanrocnoscoan: {
+        tier: "OU",
+    },
+    lycanrocdawnnoscoan: {
+        tier: "OU",
+    },
+    lycanrocmidnightnoscoan: {
+        tier: "OU",
+    },
+    miniornoscoan: {
+        tier: "OU",
+    },
+    mimikyustarter: {
+        tier: "OU",
+    },
+    copperajahnoscoan: {
+        tier: "OU",
+    },
+    tatsugirinoscoan: {
+        tier: "OU",
+    },
+    tatsugirinoscoanghostpepper: {
+        tier: "OU",
+    },
+    tatsugirinoscoanwasabi: {
+        tier: "OU",
+    },
+    ogerponbystial: {
+        tier: "OU",
+    },
+    ogerponherald: {
+        tier: "OU",
+    },
+    hydrapplenoscoan: {
+        tier: "OU",
+    },
+    banettemegax: {
+        tier: "OU",
+    },
+    magnezonemega: {
+        tier: "OU",
+    },
+    dusknoirmega: {
+        tier: "OU",
+    },
+    pangoromega: {
+        tier: "OU",
+    },
+    tsareenamega: {
+        tier: "OU",
+    },
+    hydrapplemegax: {
+        tier: "OU",
+    },
+    hydrapplemegay: {
+        tier: "OU",
+    },
+    hydreigonnoscoan: {
         tier: "OU",
     },
 };
