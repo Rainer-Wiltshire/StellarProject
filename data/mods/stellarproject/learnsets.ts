@@ -5,6 +5,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 		inherit: true,
 		learnset: {
 			gunkshot: ["9L1"],
+			lick: ["9L1"],
 		},
 	},
 	charizard: {
@@ -29,6 +30,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			defendorder: ["9L1"],
 			healorder: ["9L1"],
 			hyperdrill: ["9L1"],
+			superpower: ["9L1"],
 		},
 	},
 	pidgeot: {
@@ -68,6 +70,9 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 		inherit: true,
 		learnset: {
 			recover: ["9L1"],
+			powerwhip: ["9L1"],
+			jawlock: ["9L1"],
+			superpower: ["9L1"],
 		},
 	},
 	raichu: {
@@ -135,9 +140,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 		inherit: true,
 		learnset: {
 			infernalparade: ["9L1"],
-			fusionflare: ["9L1"],
 			mysticalpower: ["9L1"],
-			astralbarrage: ["9L1"],
 		},
 	},
 	ninetalesalola: {
@@ -152,7 +155,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	screamtail: {
 		inherit: true,
 		learnset: {
-			psychoboost: ["9L1"],
+			eeriespell: ["9L1"],
 			alluringvoice: ["9M"],
 			allyswitch: ["8M", "7T"],
 			amnesia: ["9M"],
@@ -315,6 +318,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			leafblade: ["9L1"],
 			strengthsap: ["9L1"],
 			pollenpuff: ["9L1"],
+			crabhammer: ["9L1"],
 		},
 	},
 	persian: {
@@ -326,6 +330,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			rocktomb: ["9L1"],
 			rockslide: ["9L1"],
 			stoneedge: ["9L1"],
+			greedyreplenish: ["9L1"],
 		},
 	},
 	primeape: {
@@ -347,7 +352,6 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 		inherit: true,
 		learnset: {
 			highhorsepower: ["9L1"],
-			fusionbolt: ["9L1"],
 			glaiverush: ["9L1"],
 			uturn: ["9L1"],
 		},
@@ -357,7 +361,6 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 		learnset: {
 			accelerock: ["9L1"],
 			volttackle: ["9L1"],
-			diamondstorm: ["9L1"],
 			playrough: ["9L1"],
 		},
 	},
@@ -416,9 +419,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			dragonclaw: ["9L1"],
 			shellsmash: ["9L1"],
 			headlongrush: ["9L1"],
-			dracometeor: ["9L1"],
 			heatcrash: ["9L1"],
-			uturn: ["9L1"],
 		},
 	},
 	golemalola: {
@@ -479,6 +480,8 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			dazzlinggleam: ["9L1"],
 			aurasphere: ["9L1"],
 			terrainpulse: ["9L1"],
+			paraboliccharge: ["9L1"],
+			autotomize: ["9L1"],
 		},
 	},
 	magnezone: {
@@ -490,6 +493,8 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			dazzlinggleam: ["9L1"],
 			aurasphere: ["9L1"],
 			terrainpulse: ["9L1"],
+			paraboliccharge: ["9L1"],
+			autotomize: ["9L1"],
 		},
 	},
 	sandyshocks: {
@@ -612,14 +617,25 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 		learnset: {
 			infernalparade: ["9L1"],
 			moongeistbeam: ["9L1"],
-			malignantchain: ["9L1"],
+		},
+	},
+	hypno: {
+		inherit: true,
+		learnset: {
+			instruct: ["9L1"],
+			aurasphere: ["9L1"],
+		},
+	},
+	kingler: {
+		inherit: true,
+		learnset: {
+			aquastep: ["9L1"],
 		},
 	},
 	electrode: {
 		inherit: true,
 		learnset: {
 			electrodrift: ["9L1"],
-			collisioncourse: ["9L1"],
 			mindblown: ["9L1"],
 			aurasphere: ["9L1"],
 			focusblast: ["9L1"],
@@ -634,6 +650,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			aurasphere: ["9L1"],
 			focusblast: ["9L1"],
 			dazzlinggleam: ["9L1"],
+			matchagotacha: ["9L1"],
 		},
 	},
 	exeggutor: {
@@ -666,7 +683,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 		learnset: {
 			spiritbreak: ["9L1"],
 			victorydance: ["9L1"],
-			memnto: ["9L1"],
+			memento: ["9L1"],
 		},
 	},
 	weezing: {
@@ -739,20 +756,32 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			shadowball: ["9L1"],
 		},
 	},
+	mrmime: {
+		inherit: true,
+		learnset: {
+			strangesteam: ["9L1"],
+			glitzyglow: ["9L1"],
+		},
+	},
+	mrrime: {
+		inherit: true,
+		learnset: {
+			noxioustorque: ["9L1"],
+			chillyreception: ["9L1"],
+		},
+	},
 	scyther: {
 		inherit: true,
 		learnset: {
 			accelerock: ["9L1"],
 			meteormash: ["9L1"],
 			rockblast: ["9L1"],
-			behemothblade: ["9L1"],
 		},
 	},
 	scizor: {
 		inherit: true,
 		learnset: {
 			meteormash: ["9L1"],
-			behemothblade: ["9L1"],
 			plasmafists: ["9L1"],
 			bulldoze: ["9L1"],
 		},
@@ -854,6 +883,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 		learnset: {
 			thunderfang: ["9L1"],
 			firefang: ["9L1"],
+			jawlock: ["9L1"],
 			psychicfangs: ["9L1"],
 			ragingfury: ["9L1"],
 			orderup: ["9L1"],
@@ -951,6 +981,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 		learnset: {
 			mightycleave: ["9L1"],
 			technoblast: ["9L1"],
+			stonesurge: ["9L1"],
 		},
 	},
 	aerodactyl: {
@@ -964,6 +995,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 		inherit: true,
 		learnset: {
 			slackoff: ["9L1"],
+			greedyreplenish: ["9L1"],
 		},
 	},
 	articuno: {
@@ -993,7 +1025,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	moltres: {
 		inherit: true,
 		learnset: {
-			fusionflare: ["9L1"],
+			fierydance: ["9L1"],
 		},
 	},
 	moltresgalar: {
@@ -10163,38 +10195,6 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			liquidation: ["9L1"],
 			teleport: ["9L1"],
 			shadowball: ["9L1"],
-		},
-	},
-	izumimotoeimibattle: {
-		learnset: {
-			glaciate: ["9L1"],
-			icebeam: ["9L1"],
-			freezedry: ["9L1"],
-			blizzard: ["9L1"],
-			hypervoice: ["9L1"],
-			milkdrink: ["9L1"],
-			expandingforce: ["9L1"],
-			heavyslam: ["9L1"],
-			heatwave: ["9L1"],
-			overheat: ["9L1"],
-			beakblast: ["9L1"],
-			surf: ["9L1"],
-			encore: ["9L1"],
-			haze: ["9L1"],
-			chillingwater: ["9L1"],
-			fakeout: ["9L1"],
-			icywind: ["9L1"],
-			weatherball: ["9L1"],
-			thunderbolt: ["9L1"],
-			electroshot: ["9L1"],
-			discharge: ["9L1"],
-			thunderwave: ["9L1"],
-			risingvoltage: ["9L1"],
-			voltswitch: ["9L1"],
-			flashcannon: ["9L1"],
-			aurasphere: ["9L1"],
-			darkpulse: ["9L1"],
-			waterpulse: ["9L1"],
 		},
 	},
 	skeledirgenoscoan: {

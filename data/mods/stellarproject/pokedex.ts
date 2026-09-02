@@ -1,19 +1,15 @@
 export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable = {
   venusaur: {
     inherit: true,
-    abilities: { 0: "Overgrow", H: "Neutralizing Gas"},
+    abilities: { 0: "Overgrow", 1: "Chlorophyll", H: "Neutralizing Gas"},
   },
   charizard: {
     inherit: true,
-    abilities: { 0: "Blaze", H: "Tough Claws"},
-  },
-  charizardmega: {
-    inherit: true,
-    abilities: { 0: "Multiscale"},
+    abilities: { 0: "Blaze", 1: "Solar Power", H: "Tough Claws"},
   },
   blastoise: {
     inherit: true,
-    abilities: { 0: "Torrent", H: "No Guard"},
+    abilities: { 0: "Torrent", 1: "Rain Dish", H: "No Guard"},
   },
   beedrill: {
     inherit: true,
@@ -55,15 +51,15 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
   },
   nidoqueen: {
     inherit: true,
-      abilities: { 0: "Rivalry", 1: "Sheer Force", H: "Marvel Scale" },
+      abilities: { 0: "Poison Point", 1: "Sheer Force", H: "Marvel Scale" },
   },
   nidoking: {
     inherit: true,
-      abilities: { 0: "Rivalry", 1: "Sheer Force", H: "Guts" },
+      abilities: { 0: "Poison Point", 1: "Sheer Force", H: "Guts" },
   },
   ninetales: {
     inherit: true,
-      abilities: { 0: "Flash Fire", 1: "Shadow Shield", H: "Drought" },
+      abilities: { 0: "Flash Fire", 1: "Sacred Wraith", H: "Drought" },
   },
   ninetalesalola: {
     inherit: true,
@@ -80,7 +76,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
   },
   vileplume: {
     inherit: true,
-    abilities: { 0: "Chlorophyll", 1: "Lingering Aroma", H: "Effect Spore" },
+    abilities: { 0: "Chlorophyll", 1: "Lingering Aroma", H: "Toxic Debris" },
   },
   parasect: {
     inherit: true,
@@ -89,6 +85,11 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
   persian: {
     inherit: true,
     abilities: { 0: "Super Luck", 1: "Technician", H: "Good as Gold" },
+  },
+  golduck: {
+    inherit: true,
+    baseStats: { hp: 80, atk: 105, def: 73, spa: 82, spd: 75, spe: 85 },
+    abilities: { 0: "Damp", 1: "Swift Swim", H: "Tough Claws" },
   },
   primeape: {
     inherit: true,
@@ -104,7 +105,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
   },
   arcaninehisui: {
     inherit: true,
-    abilities: { 0: "Intimidate", 1: "Rock Head", H: "Flash Fire" },
+    abilities: { 0: "Intimidate", 1: "Rock Head", H: "Guard Dog" },
   },
   poliwrath: {
     inherit: true,
@@ -120,7 +121,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
   },
   machamp: {
     inherit: true,
-    abilities: { 0: "Skill Link", 1: "No Guard", H: "Arena Trap" },
+    abilities: { 0: "Skill Link", 1: "No Guard", H: "Iron Fist" },
   },
   victreebel: {
     inherit: true,
@@ -176,7 +177,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
   sandyshocks: {
     inherit: true,
-    abilities: { 0: "Protosynthesis", H: "Magnet Pull" },
+    abilities: { 0: "Protosynthesis", H: "Steelworker" },
   },
   dewgong: {
     inherit: true,
@@ -240,11 +241,19 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
   },
   seaking: {
     inherit: true,
-    abilities: { 0: "Hydration", 1: "Water Veil", H: "Lightning Rod" },
+    abilities: { 0: "Piercing Drill", 1: "Water Veil", H: "Lightning Rod" },
   },
   starmie: {
     inherit: true,
     abilities: { 0: "Analytic", 1: "Natural Cure", H: "Protean" },
+  },
+  mrmime: {
+    inherit: true,
+    abilities: { 0: "Soundproof", 1: "Filter", H: "Persistent" },
+  },
+  mrrime: {
+    inherit: true,
+    abilities: { 0: "Tangled Feet", 1: "Pickup", H: "Screen Cleaner" },
   },
   scyther: {
     inherit: true,
@@ -384,7 +393,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
   },
   dragonite: {
     inherit: true,
-    abilities: { 0: "Inner Focus", 1: "Dragonize", H: "Multiscale" },
+    abilities: { 0: "Inner Focus", 1: "Hydrocalling", H: "Multiscale" },
   },
   dragonitemega: {
     inherit: true,
