@@ -6898,7 +6898,7 @@ wanibuchiakari: {
     types: ["Poison", "Fire"],
     genderRatio: { M: 0.5, F: 0.5 },
     baseStats: { hp: 123, atk: 78, def: 108, spa: 102, spd: 67, spe: 47 },
-    abilities: { 0: "Toxic Debris", 1: "White Smoke" H: "Earth Eater" },
+    abilities: { 0: "Toxic Debris", 1: "White Smoke", H: "Earth Eater" },
 		heightm: 2,
 		weightkg: 300,
 		color: "Red",

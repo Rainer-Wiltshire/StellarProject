@@ -6711,7 +6711,6 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 		learnset: {
 			shadowstrike: ["9L1"],
 			shadowsneak: ["9L1"],
-			banefulbunker: ["9L1"],
 			shelter: ["9L1"],
 			fairylock: ["9L1"],
 			aurasphere: ["9L1"],
