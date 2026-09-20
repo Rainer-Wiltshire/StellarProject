@@ -4000,7 +4000,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 		inherit: true,
 		learnset: {
 			steelsurge: ["9L1"],
-			shellsmash:: ["9L1"],
+			shellsmash: ["9L1"],
 			uturn: ["9L1"],
 		},
 	},

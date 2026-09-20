@@ -6818,7 +6818,7 @@ wanibuchiakari: {
     types: ["Fighting", "Steel"],
     genderRatio: { M: 0.5, F: 0.5 },
     baseStats: { hp: 65, atk: 105, def: 60, spa: 120, spd: 60, spe: 100 },
-    abilities: { 0: "Heatproof", 1: "Regenerator" H: "Weak Armor" },
+    abilities: { 0: "Heatproof", 1: "Regenerator", H: "Weak Armor" },
 		heightm: 2.7,
 		weightkg: 40,
 		color: "Black",
