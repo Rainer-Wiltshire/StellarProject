@@ -1893,6 +1893,10 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		inherit: true,
 		abilities: { 0: "Corrosion", 1: "Supreme Overlord", H: "Dragon's Maw" },
 	},
+  bewear: {
+		inherit: true,
+		abilities: { 0: "Fluffy", 1: "Klutz", H: "Cute Charm" },
+	},
   tsareena: {
 		inherit: true,
 		abilities: { 0: "Moxie", 1: "Queenly Majesty", H: "Thick Fat" },
@@ -2084,6 +2088,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
   thievul: {
 		inherit: true,
+    baseStats: { hp: 70, atk: 58, def: 58, spa: 87, spd: 92, spe: 103 },
 		abilities: { 0: "Run Away", 1: "Sniper", H: "Stakeout" },
 	},
   eldegoss: {
@@ -2152,6 +2157,10 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		inherit: true,
 		abilities: { 0: "Gulp Missle", H: "Big Pecks" },
 	},
+  barraskewda: {
+		inherit: true,
+		abilities: { 0: "Swift Swim", 1: "Piercing Drill", H: "Propeller Tail" },
+	},
   toxtricity: {
 		inherit: true,
 		abilities: { 0: "Punk Rock", 1: "Technician", H: "Rock Head" },
@@ -2173,6 +2182,10 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		inherit: true,
 		abilities: { 0: "Armor Tail", 1: "Technician", H: "Regenerator" },
 	},
+  sinistcha: {
+		inherit: true,
+		abilities: { 0: "Hospitality", 1: "Curious Medecine", H: "Heatproof" },
+	},
   hatterene: {
 		inherit: true,
 		abilities: { 0: "Healer", 1: "Magic Bounce", H: "Tough Claws" },
@@ -2180,10 +2193,6 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
   grimmsnarl: {
 		inherit: true,
 		abilities: { 0: "Prankster", 1: "Tangling Hair", H: "Soul Heart" },
-	},
-  cursola: {
-		inherit: true,
-		abilities: { 0: "Perish Body", 1: "Weak Armor", H: "Solid Rock" },
 	},
   sirfetchd: {
 		inherit: true,
@@ -2261,6 +2270,10 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		inherit: true,
 		abilities: { 0: "Swarm", 1: "Defiant", H: "Tinted Lens" },
 	},
+  pawmot: {
+		inherit: true,
+		abilities: { 0: "Triage", 1: "Natural Cure", H: "Iron Fist" },
+	},
   dachsbun: {
 		inherit: true,
 		abilities: { 0: "Well-Baked Body", 1: "Truant", H: "Aroma Veil" },
@@ -2271,11 +2284,13 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
   squawkabilly: {
 		inherit: true,
+    types: ["Fighting", "Flying"],
     baseStats: { hp: 82, atk: 106, def: 51, spa: 45, spd: 51, spe: 92 },
 		abilities: { 0: "Intimidate", 1: "Hustle", H: "Stakeout" },
 	},
   squawkabillyblue: {
 		inherit: true,
+    types: ["Poison", "Flying"],
     baseStats: { hp: 82, atk: 106, def: 51, spa: 45, spd: 51, spe: 92 },
 		abilities: { 0: "Intimidate", 1: "Guts", H: "Illusion" },
 	},
@@ -2286,6 +2301,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
   squawkabillyyellow: {
 		inherit: true,
+    types: ["Steel", "Flying"],
     baseStats: { hp: 82, atk: 106, def: 51, spa: 45, spd: 51, spe: 92 },
 		abilities: { 0: "Intimidate", 1: "Sheer Force", H: "Good as Gold" },
 	},
@@ -2323,7 +2339,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 	},
   tinkaton: {
 		inherit: true,
-		abilities: { 0: "Mold Breaker", 1: "Pickpocket", H: "Steelworker" },
+		abilities: { 0: "Mold Breaker", 1: "Prankster", H: "Steelworker" },
 	},
   wugtrio: {
 		inherit: true,
@@ -2397,6 +2413,22 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
   chiyu: {
 		inherit: true,
 		abilities: { 0: "Turboblaze", H: "Beads of Ruin" },
+	},
+  okidogi: {
+		inherit: true,
+		abilities: { 0: "Toxic Chain", 1: "Guard Dog", H: "No Guard" },
+	},
+  munkidori: {
+		inherit: true,
+		abilities: { 0: "Toxic Chain", 1: "Frisk", H: "Prankster" },
+	},
+  fezandipiti: {
+		inherit: true,
+		abilities: { 0: "Toxic Chain", 1: "Technician", H: "Aura Guard" },
+	},
+  pecharunt: {
+		inherit: true,
+		abilities: { 0: "Poison Puppeteer", H: "Toxic Chain" },
 	},
   ogerpon: {
     inherit: true,
