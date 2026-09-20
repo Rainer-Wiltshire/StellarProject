@@ -5964,7 +5964,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 		inherit: true,
 		learnset: {
 			meltdownrush: ["9L1"],
-			windrage:: ["9L1"],
+			windrage: ["9L1"],
 			partingshot: ["9L1"],
 			chatter: ["9L1"],
 			acrobatics: ["9L1"],

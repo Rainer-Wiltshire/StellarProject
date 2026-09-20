@@ -6831,7 +6831,7 @@ wanibuchiakari: {
     types: ["Fire", "Fairy"],
     genderRatio: { M: 0.5, F: 0.5 },
     baseStats: { hp: 105, atk: 45, def: 110, spa: 100, spd: 85, spe: 65 },
-    abilities: { 0: "Power Spot", 1: "Lightning Rod" H: "Levitate" },
+    abilities: { 0: "Power Spot", 1: "Lightning Rod", H: "Levitate" },
 		heightm: 4.5,
 		weightkg: 90,
 		color: "Black",
