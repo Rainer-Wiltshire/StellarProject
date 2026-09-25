@@ -571,4 +571,108 @@ occultballs: {
         if (pokemon.baseSpecies.name === 'Usami Sumireko') return false;
     },
     },
+    banettitex: {
+		name: "Banettite X",
+		spritenum: 582,
+		megaStone: "Banette-Mega-X",
+		megaEvolves: "Banette",
+		itemUser: ["Banette"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		num: 3000,
+		gen: 9,
+	},
+    magnezonite: {
+		name: "Magnezonite",
+		spritenum: 4000,
+		megaStone: "Magnezone-Mega",
+		megaEvolves: "Magnezone",
+		itemUser: ["Magnezone"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		num: 3001,
+		gen: 9,
+	},
+    dusknoirite: {
+		name: "Dusknoirite",
+		spritenum: 4001,
+		megaStone: "Dusknoir-Mega",
+		megaEvolves: "Dusknoir",
+		itemUser: ["Dusknoir"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		num: 3002,
+		gen: 9,
+	},
+    pangorite: {
+		name: "Pangorite",
+		spritenum: 4002,
+		megaStone: "Pangoro-Mega",
+		megaEvolves: "Pangoro",
+		itemUser: ["Pangoro"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		num: 3003,
+		gen: 9,
+	},
+    tyrantrite: {
+		name: "Tyrantrite",
+		spritenum: 4003,
+		megaStone: "Tyrantrum-Mega",
+		megaEvolves: "Tyrantrum",
+		itemUser: ["Tyrantrum"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		num: 3004,
+		gen: 9,
+	},
+    tsareenite: {
+		name: "Tsareenite",
+		spritenum: 4004,
+		megaStone: "Tyrantrum-Mega",
+		megaEvolves: "Tyrantrum",
+		itemUser: ["Tyrantrum"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		num: 3005,
+		gen: 9,
+	},
+    hydrapplenitey: {
+		name: "Hydrapplenite Y",
+		spritenum: 4005,
+		megaStone: "Hydrapple-Mega-Y",
+		megaEvolves: "Hydrapple",
+		itemUser: ["Hydrapple"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		num: 3006,
+		gen: 9,
+	},
+    hydrapplenitex: {
+		name: "Hydrapplenite X",
+		spritenum: 4006,
+		megaStone: "Hydrapple-Mega-X",
+		megaEvolves: "Hydrapple",
+		itemUser: ["Hydrapple"],
+		onTakeItem(item, source) {
+			if (item.megaEvolves === source.baseSpecies.baseSpecies) return false;
+			return true;
+		},
+		num: 3007,
+		gen: 9,
+	},
 }
