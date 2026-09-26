@@ -1182,7 +1182,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
   },
 	shaymin: {
 		inherit: true,
-		abiliities: { 0: "Flower Veil" },
+		abilities: { 0: "Flower Veil" },
   },
 	shayminsky: {
 		inherit: true,
@@ -2070,7 +2070,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		inherit: true,
 		abilities: { 0: "Blaze", 1: "Quick Feet", H: "Libero" },
 	},
-  Inteleon: {
+  inteleon: {
 		inherit: true,
 		abilities: { 0: "Torrent", 1: "Mega Launcher", H: "Sniper" },
 	},
@@ -2153,7 +2153,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
 		inherit: true,
 		abilities: { 0: "Sand Spit", 1: "Shed Skin", H: "Intimidate" },
 	},
-  Cramorant: {
+  cramorant: {
 		inherit: true,
 		abilities: { 0: "Gulp Missle", H: "Big Pecks" },
 	},
@@ -6863,7 +6863,6 @@ wanibuchiakari: {
     forme: "Noscoan",
     gen: 9,
     types: ["Fire", "Grass"],
-    genderRatio: "N",
     baseStats: { hp: 60, atk: 120, def: 40, spa: 120, spd: 40, spe: 120 },
     abilities: { 0: "Shield's Down" },
 		heightm: 0.3,
@@ -6879,7 +6878,6 @@ wanibuchiakari: {
     forme: "Meteor-Noscoan",
     gen: 9,
     types: ["Fire", "Grass"],
-    genderRatio: "N",
     baseStats: { hp: 60, atk: 60, def: 130, spa: 60, spd: 130, spe: 60 },
     abilities: { 0: "Shield's Down" },
 		heightm: 0.3,
@@ -7271,7 +7269,7 @@ wanibuchiakari: {
   tatsugirinoscoan: {
 		num: 978,
 		name: "Tatsugiri-Noscoan",
-		Forme: "Noscoan",
+		forme: "Noscoan",
 		types: ["Fire", "Dragon"],
 		baseStats: { hp: 68, atk: 50, def: 60, spa: 120, spd: 72, spe: 105 },
 		abilities: { 0: "Commander", H: "Multiscale" },
@@ -7283,7 +7281,7 @@ wanibuchiakari: {
   tatsugirinoscoanwasabi: {
 		num: 978,
 		name: "Tatsugiri-Wasabi-Noscoan",
-		Forme: "Wasabi-Noscoan",
+		forme: "Wasabi-Noscoan",
 		types: ["Poison", "Dragon"],
 		baseStats: { hp: 68, atk: 50, def: 120, spa: 60, spd: 105, spe: 72 },
 		abilities: { 0: "Commander", H: "Multiscale" },
@@ -7295,7 +7293,7 @@ wanibuchiakari: {
   tatsugirinoscoanghostpepper: {
 		num: 978,
 		name: "Tatsugiri-Ghost Pepper-Noscoan",
-		Forme: "Ghost Pepper-Noscoan",
+		forme: "Ghost Pepper-Noscoan",
 		types: ["Ghost", "Dragon"],
 		baseStats: { hp: 68, atk: 50, def: 72, spa: 105, spd: 120, spe: 60 },
 		abilities: { 0: "Commander", H: "Multiscale" },
