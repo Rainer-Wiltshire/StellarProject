@@ -1,5 +1,3 @@
-import { truncate } from 'node:fs';
-
 export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTable = {
     venusaur: {
 		inherit: true,
@@ -5737,7 +5735,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			nihillight: ["9E"],
 		},
 		eventData: [
-			{generation: 9, level: 1, abilities: ["Interstellar Sin"], moves: ["terastarstorm", "nihillight"], pokeball: "cherishball"},
+			{generation: 9, level: 1, abilities: ["interstellar sin"], moves: ["terastarstorm", "nihillight"], pokeball: "cherishball"},
 		],
 	},
 	necrozmaduskmane: {
