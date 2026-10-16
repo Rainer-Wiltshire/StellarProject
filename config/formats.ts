@@ -5068,27 +5068,27 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		battle: { trunc: Math.trunc },
 		ruleset: ['HP Percentage Mod', 'Cancel Mod', 'Desync Clause Mod', 'Max Team Size = 24', 'Max Move Count = 24', 'Max Level = 9999', 'Default Level = 100'],
 	},
-	
-	// Stellar Project Formats
-    ///////////////////////////////////////////////////////////////////
 
-    {
-        section: "Stellar Project Formats",
-        column: 5,
-    },
-    {
-        name: "[Gen 9] RP Adventure",
-        mod: 'stellarproject',
-        ruleset: ['Standard NatDex'],
-        banlist: [],
-        onBegin () {},
-    },
-    {
-        name: "[Gen 9] BAmons",
-        mod: 'bluearchive',
-        ruleset: ['Standard NatDex'],
-        banlist: [],
-    },
+	// Stellar Project Formats
+	///////////////////////////////////////////////////////////////////
+
+	{
+		section: "Stellar Project Formats",
+		column: 5,
+	},
+	{
+		name: "[Gen 9] RP Adventure",
+		mod: 'stellarproject',
+		ruleset: ['Standard NatDex'],
+		banlist: [],
+		onBegin() {},
+	},
+	{
+		name: "[Gen 9] BAmons",
+		mod: 'bluearchive',
+		ruleset: ['Standard NatDex'],
+		banlist: [],
+	},
 	{
 		name: "[Gen 9] Crossverse",
 		mod: 'stellarproject',
@@ -5108,10 +5108,10 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		banlist: [],
 	},
 	{
-        name: "[Gen 9] RP Adventure Doubles",
-        mod: 'stellarproject',
+		name: "[Gen 9] RP Adventure Doubles",
+		mod: 'stellarproject',
 		gameType: 'doubles',
-        ruleset: ['Standard NatDex', '!Sleep Clause Mod', '!OHKO Clause'],
-        banlist: [],
-	}
+		ruleset: ['Standard NatDex', '!Sleep Clause Mod', '!OHKO Clause'],
+		banlist: [],
+	},
 ];

@@ -12435,7 +12435,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			healorder: ["9L1"],
 			thousandarrows: ["9L1"],
 			mysticalpower: ["9L1"],
-			judgement: ["9L1"],
+			judgment: ["9L1"],
 			naturepower: ["9L1"],
 			earthpower: ["9L1"],
 			mysticalfire: ["9L1"],
@@ -17005,7 +17005,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	ninjask: {
 		inherit: true,
 		learnset: {
-			twinneedle: ["9L1"],
+			twineedle: ["9L1"],
 			bounce: ["9L1"],
 			skydrop: ["9L1"],
 			extremespeed: ["9L1"],
@@ -22810,7 +22810,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 		learnset: {
 			collisioncourse: ["9L1"],
 			suckerpunch: ["9L1"],
-			highkumpkick: ["9L1"],
+			highjumpkick: ["9L1"],
 			wickedblow: ["9L1"],
 			acrobatics: ["9M"],
 			aerialace: ["9M", "9L28", "7M", "7L28", "6M", "6L28", "5M", "5L28", "4M", "4L28"],
@@ -22882,7 +22882,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 		inherit: true,
 		learnset: {
 			sonicboom: ["9L1"],
-			twinneedle: ["9L1"],
+			twineedle: ["9L1"],
 			bulletseed: ["9L1"],
 			razorwind: ["9L1"],
 			quiverdance: ["9L1"],
@@ -25870,7 +25870,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			hydropump: ["9R", "8R", "7R", "6R", "5R", "4R"],
 		},
 	},
-	rotomfreeze: {
+	rotomfrost: {
 		inherit: true,
 		learnset: {
 			icebeam: ["9L1"],
@@ -28560,7 +28560,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 		inherit: true,
 		learnset: {
 			octazooka: ["9L1"],
-			scakd: ["9L1"],
+			scald: ["9L1"],
 			calmmind: ["9L1"],
 			agility: ["9M"],
 			aquajet: ["9L12"],
@@ -33972,7 +33972,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 		],
 		eventOnly: true,
 	},
-	enamorous: {
+	enamorus: {
 		inherit: true,
 		learnset: {
 			acrobatics: ["9L1"],
@@ -35006,7 +35006,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			{generation: 9, level: 50, gender: "M", nature: "Adamant", isHidden: true, perfectIVs: 6, moves: ["acrobatics", "tailwind", "protect", "quickguard"], pokeball: "cherishball"},
 		],
 	},
-	vivillion: {
+	vivillon: {
 		inherit: true,
 		learnset: {
 			flutterstorm: ["9L1"],
@@ -46128,7 +46128,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			scald: ["9L1"],
 			hydropump: ["9L1"],
 			sludgebomb: ["9L1"],
-			sludegwave: ["9L1"],
+			sludgewave: ["9L1"],
 			taunt: ["9L1"],
 			acidspray: ["9M"],
 			charge: ["9M", "9L17"],
@@ -48336,7 +48336,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	equilibra: {
 		inherit: true,
 		learnset: {
-			judgement: ["9L1"],
+			judgment: ["9L1"],
 			naturesmadness: ["9L1"],
 			teleport: ["9L1"],
 			allyswitch: ["8M", "7T"],
@@ -49485,7 +49485,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			facade: ["9L1"],
 		},
 	},
-	sunaookamikuroko: {
+	shirokoterror: {
 		learnset: {
 			bonemerang: ["9L1"],
 			earthquake: ["9L1"],
@@ -49752,7 +49752,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			stompingtantrum: ["9L1"],
 			outrage: ["9L1"],
 			temperflare: ["9L1"],
-			doublledge: ["9L1"],
+			doubleedge: ["9L1"],
 			axekick: ["9L1"],
 			rockslide: ["9L1"],
 			stoneedge: ["9L1"],
@@ -50091,7 +50091,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			ironhead: ["9L1"],
 			flashcannon: ["9L1"],
 			defog: ["9L1"],
-			stealthrocks: ["9L1"],
+			stealthrock: ["9L1"],
 		},
 	},
 	yozakurakirara: {
@@ -50192,7 +50192,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			shadowsneak: ["9L1"],
 			shadowball: ["9L1"],
 			batonpass: ["9L1"],
-			judgement: ["9L1"],
+			judgment: ["9L1"],
 		},
 	},
 	kyouyamakazusa: {
@@ -50456,7 +50456,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			safeguard: ["9L1"],
 			healbell: ["9L1"],
 			bounce: ["9L1"],
-			twinneedle: ["9L1"],
+			twineedle: ["9L1"],
 			fellstinger: ["9L1"],
 		},
 	},
@@ -50563,7 +50563,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 		learnset: {
 			chillyreception: ["9L1"],
 			gunkshot: ["9L1"],
-			sludegwave: ["9L1"],
+			sludgewave: ["9L1"],
 			acidspray: ["9L1"],
 			hypervoice: ["9L1"],
 			extremespeed: ["9L1"],
@@ -50980,7 +50980,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			icepunch: ["9L1"],
 			drainpunch: ["9L1"],
 			workup: ["9L1"],
-			caoching: ["9L1"],
+			coaching: ["9L1"],
 			bulkup: ["9L1"],
 			rockslide: ["9L1"],
 			upperhand: ["9L1"],
@@ -50989,7 +50989,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	},
 	nomasarei: {
 		learnset: {
-			sumbission: ["9L1"],
+			submission: ["9L1"],
 			crosschop: ["9L1"],
 			superpower: ["9L1"],
 			headsmash: ["9L1"],
@@ -51015,7 +51015,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			flowertrick: ["9L1"],
 			terrainpulse: ["9L1"],
 			trickroom: ["9L1"],
-			lightscree: ["9L1"],
+			lightscreen: ["9L1"],
 			reflect: ["9L1"],
 			freezeshock: ["9L1"],
 			iceburn: ["9L1"],
@@ -51058,7 +51058,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			focusblast: ["9L1"],
 			trailblaze: ["9L1"],
 			chargebeam: ["9L1"],
-			shadownsneak: ["9L1"],
+			shadowsneak: ["9L1"],
 			tidyup: ["9L1"],
 			trickroom: ["9L1"],
 		},
@@ -51088,7 +51088,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			firepunch: ["9L1"],
 			gunkshot: ["9L1"],
 			thunderwave: ["9L1"],
-			todyup: ["9L1"],
+			tidyup: ["9L1"],
 			nightslash: ["9L1"],
 			facade: ["9L1"],
 		},
@@ -51142,7 +51142,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			endure: ["9L1"],
 		},
 	},
-	soaraisaki: {
+	soraisaki: {
 		learnset: {
 			ironhead: ["9L1"],
 			meteormash: ["9L1"],
@@ -51179,7 +51179,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			shelter: ["9L1"],
 			trailblaze: ["9L1"],
 			endure: ["9L1"],
-			magoccoat: ["9L1"],
+			magiccoat: ["9L1"],
 			lightscreen: ["9L1"],
 			reflect: ["9L1"],
 			spikes: ["9L1"],
@@ -51231,7 +51231,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			endure: ["9L1"],
 		},
 	},
-	niko: {
+	yoshinoniko: {
 		learnset: {
 			pollenpuff: ["9L1"],
 			dazzlinggleam: ["9L1"],
@@ -51252,7 +51252,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			wish: ["9L1"],
 		},
 	},
-	kurumi: {
+	takakurakurumi: {
 		learnset: {
 			stoneedge: ["9L1"],
 			powergem: ["9L1"],
@@ -51273,7 +51273,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			endure: ["9L1"],
 		},
 	},
-	otogi: {
+	tenuinyamaotogi: {
 		learnset: {
 			technoblast: ["9L1"],
 			darkpulse: ["9L1"],
@@ -52106,7 +52106,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			takedown: ["9L1"],
 			tripleaxel: ["9L1"],
 			supercellslam: ["9L1"],
-			odeursleuth: ["9L1"],
+			odorsleuth: ["9L1"],
 			blazekick: ["9L1"],
 			submission: ["9L1"],
 			circlethrow: ["9L1"],
@@ -52309,7 +52309,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			icywind: ["9L1"],
 			encore: ["9L1"],
 			painsplit: ["9L1"],
-			judgement: ["9L1"],
+			judgment: ["9L1"],
 			heartswap: ["9L1"],
 			takeheart: ["9L1"],
 			astralbarrage: ["9L1"],
@@ -52710,7 +52710,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			encore: ["9L1"],
 			icespinner: ["9L1"],
 			acrobatics: ["9L1"],
-			fliturn: ["9L1"],
+			flipturn: ["9L1"],
 			aquajet: ["9L1"],
 			stompingtantrum: ["9L1"],
 			throatchop: ["9L1"],
@@ -52827,7 +52827,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			discharge: ["9L1"],
 			soak: ["9L1"],
 			thunderwave: ["9L1"],
-			chragebeam: ["9L1"],
+			chargebeam: ["9L1"],
 			electricterrain: ["9L1"],
 		},
 	},
@@ -52908,7 +52908,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	},
 	hieronymus: {
 		learnset: {
-			judgement: ["9L1"],
+			judgment: ["9L1"],
 			shadowball: ["9L1"],
 			hex: ["9L1"],
 			sludgebomb: ["9L1"],
@@ -52937,7 +52937,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			cosmicpower: ["9L1"],
 		},
 	},
-	shiro: {
+	shirokuro: {
 		learnset: {
 			populationbomb: ["9L1"],
 			batonpass: ["9L1"],
@@ -52953,24 +52953,15 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			superpower: ["9L1"],
 			pyroball: ["9L1"],
 			honeclaws: ["9L1"],
-		},
-	},
-	kuro: {
-		learnset: {
 			bravebird: ["9L1"],
-			batonpass: ["9L1"],
-			encore: ["9L1"],
 			moonlight: ["9L1"],
 			defog: ["9L1"],
 			roost: ["9L1"],
 			ruination: ["9L1"],
 			nightshade: ["9L1"],
-			painsplit: ["9L1"],
 			fly: ["9L1"],
-			uturn: ["9L1"],
 			closecombat: ["9L1"],
 			snipeshot: ["9L1"],
-			honeclaws: ["9L1"],
 		},
 	},
 	perorodzilla: {
@@ -52983,7 +52974,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			aeroblast: ["9L1"],
 			defog: ["9L1"],
 			roost: ["9L1"],
-			freeingglare: ["9L1"],
+			freezingglare: ["9L1"],
 			zenheadbutt: ["9L1"],
 			cosmicpower: ["9L1"],
 			meteorbeam: ["9L1"],
@@ -53654,7 +53645,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			sludgebomb: ["9L1"],
 			bugbuzz: ["9L1"],
 			flashcannon: ["9L1"],
-			comsicpower: ["9L1"],
+			cosmicpower: ["9L1"],
 			strugglebug: ["9L1"],
 			meteormash: ["9L1"],
 			uturn: ["9L1"],
@@ -53879,7 +53870,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			extremespeed: ["9L1"],
 			heatwave: ["9L1"],
 			airslash: ["9L1"],
-			bleakwind: ["9L1"],
+			bleakwindstorm: ["9L1"],
 			leafstorm: ["9L1"],
 			chatter: ["9L1"],
 			springtidestorm: ["9L1"],
@@ -53952,7 +53943,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			shadowsneak: ["9L1"],
 			smartstrike: ["9L1"],
 			woodhammer: ["9L1"],
-			judgement: ["9L1"],
+			judgment: ["9L1"],
 			mirrorcoat: ["9L1"],
 			lightscreen: ["9L1"],
 			reflect: ["9L1"],
@@ -54173,7 +54164,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			rockslide: ["9L1"],
 			powergem: ["9L1"],
 			wish: ["9L1"],
-			percipiceblades: ["9L1"],
+			precipiceblades: ["9L1"],
 			lick: ["9L1"],
 		},
 	},
@@ -54513,7 +54504,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			flipturn: ["9L1"],
 			drillrun: ["9L1"],
 			leechlife: ["9L1"],
-			stealthrocks: ["9L1"],
+			stealthrock: ["9L1"],
 			knockoff: ["9L1"],
 			bulletpunch: ["9L1"],
 			waterfall: ["9L1"],
@@ -54531,7 +54522,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			icebeam: ["9L1"],
 			nastyplot: ["9L1"],
 			scorchingsands: ["9L1"],
-			stealthrocks: ["9L1"],
+			stealthrock: ["9L1"],
 			lightscreen: ["9L1"],
 			reflect: ["9L1"],
 			meteorbeam: ["9L1"],
@@ -54814,7 +54805,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			psyblade: ["9L1"],
 			aurasphere: ["9L1"],
 			psychic: ["9L1"],
-			triplkick: ["9L1"],
+			triplekick: ["9L1"],
 			stompingtantrum: ["9L1"],
 			temperflare: ["9L1"],
 			bitterblade: ["9L1"],
@@ -54865,7 +54856,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			nastyplot: ["9L1"],
 		},
 	},
-	sakibanki: {
+	sekibanki: {
 		learnset: {
 			mindblown: ["9L1"],
 			triattack: ["9L1"],
@@ -55145,7 +55136,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 	},
 	kishinsagume: {
 		learnset: {
-			tospyturvy: ["9L1"],
+			topsyturvy: ["9L1"],
 			trickroom: ["9L1"],
 			metalburst: ["9L1"],
 			gravity: ["9L1"],
@@ -55499,7 +55490,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			weatherball: ["9L1"],
 			defog: ["9L1"],
 			strengthsap: ["9L1"],
-			judgement: ["9L1"],
+			judgment: ["9L1"],
 			mysticalpower: ["9L1"],
 			willowisp: ["9L1"],
 			teleport: ["9L1"],
@@ -55852,7 +55843,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 		learnset: {
 			luminacrash: ["9L1"],
 			hurricane: ["9L1"],
-			bleakwind: ["9L1"],
+			bleakwindstorm: ["9L1"],
 			bravebird: ["9L1"],
 			zenheadbutt: ["9L1"],
 			defog: ["9L1"],
@@ -55873,7 +55864,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			terastarstorm: ["9L1"],
 			psychic: ["9L1"],
 			psyshock: ["9L1"],
-			comsicpower: ["9L1"],
+			cosmicpower: ["9L1"],
 			tailwind: ["9L1"],
 			secretpower: ["9L1"],
 			prismaticlaser: ["9L1"],
@@ -56050,7 +56041,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			darkpulse: ["9L1"],
 			haze: ["9L1"],
 			muddywater: ["9L1"],
-			draininkiss: ["9L1"],
+			drainingkiss: ["9L1"],
 			burningbulwark: ["9L1"],
 			acidarmor: ["9L1"],
 			toxicspikes: ["9L1"],
@@ -56302,7 +56293,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			flashcannon: ["9L1"],
 			rapidspin: ["9L1"],
 			spikes: ["9L1"],
-			auroravail: ["9L1"],
+			auroraveil: ["9L1"],
 			chillingwater: ["9L1"],
 			extrasensory: ["9L1"],
 			shadowball: ["9L1"],
@@ -56378,7 +56369,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
 			aquacutter: ["9L1"],
 			leafblade: ["9L1"],
 			nightslash: ["9L1"],
-			judgement: ["9L1"],
+			judgment: ["9L1"],
 			focusblast: ["9L1"],
 			aurasphere: ["9L1"],
 			flashcannon: ["9L1"],

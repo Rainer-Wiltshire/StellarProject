@@ -3534,6 +3534,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 1.6,
 		weightkg: 69.8,
 		color: "Yellow",
+		prevo: "Quilava",
+		evoLevel: 36,
 		eggGroups: ["Field"],
 	},
 	totodile: {

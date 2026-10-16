@@ -9,7 +9,6 @@
         "skipLibCheck": true,
         "module": "CommonJS",
         "moduleResolution": "Node10",
-        "ignoreDeprecations": "6.0",
         "strict": true,
         "allowJs": true,
         "checkJs": true,

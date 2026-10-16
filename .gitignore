@@ -1,6 +1,10 @@
 /config/*
 !/config/formats.ts
+!/config/config-example.js
 /logs/**/*
+!/logs/logging.md
+!/logs/*/
+!/logs/*/README.md
 /test/modlogs
 /test/replays/*.html
 /node_modules
